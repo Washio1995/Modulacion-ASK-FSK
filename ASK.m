@@ -6,6 +6,7 @@
 function ASK(g,f)
 
 %ASK([1 0 1 1 0],2)
+%tren de pulsos binarios y frecienca
 
 
 t=0:2*pi/99:2*pi;
